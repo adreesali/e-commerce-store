@@ -1,0 +1,157 @@
+ [
+    {
+        "id": 1,
+        "name": "Wireless Gaming Mouse",
+        "price": 900,
+        "imgUrl": "/images/Wireless Gaming Mouse.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Hide Security Camera ",
+        "price": 45.9,
+        "imgUrl": "/images/home-cmaer.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Adjustable Laptop Stand",
+        "price": 62.9,
+        "imgUrl": "/images/adjustable-laptop stand.jpg"
+    },
+    {
+        "id": 4,
+        "name": "wireless mouse",
+        "price": 109.9,
+        "imgUrl": "/images/wireless mouse.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Coffee Machine",
+        "price": 80,
+        "imgUrl": "/images/coffee_machine.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Compact Air Purifier",
+        "price": 34,
+        "imgUrl": "/images/Compact Air Purifier.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Electric Standing Desk",
+            "price": 90,
+            "imgUrl": "/images/Electric Standing Desk.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Electric toothbrush",
+            "price": 50.9,
+            "imgUrl": "/images/Electric-toothbrush.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Ergonomic Office Chair",
+            "price": 250,
+            "imgUrl": "/images/Ergonomic Office Chair.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Ergonomic Office Chair",
+            "price": 370,
+            "imgUrl": "/images/Foldable Electric Scooter.jpg"
+        },
+        {
+            "id": 12,
+            "name": "High Speed Blender",
+            "price": 130,
+            "imgUrl": "/images/High Speed Blender.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Home Camera",
+            "price": 280,
+            "imgUrl": "/images/home-cmaer.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Instant Pot Multi-Cooker",
+            "price": 143,
+            "imgUrl": "/images/Instant Pot Multi-Cooker.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Macbook Pro",
+            "price": 1500,
+            "imgUrl": "/images/laptop.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Portable Power Bank",
+            "price": 60,
+            "imgUrl": "/images/Portable Power Bank.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Portable Bluetoot Speaker",
+            "price": 38,
+            "imgUrl": "/images/portable-speaker.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Professional Chef's Knife ",
+            "price": 200,
+            "imgUrl": "/images/Professional Chef's Knife Set.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Robot Vacuum Cleaner",
+            "price": 370,
+            "imgUrl": "/images/Robot Vacuum Cleaner.jpg"
+        }
+        ,
+        {
+            "id": 20,
+            "name": "Smart Doorbell Camera",
+            "price": 150,
+            "imgUrl": "/images/Smart Doorbell Camera.jpg"
+        } ,
+        {
+            "id": 21,
+            "name": "Smart Thermostat",
+            "price": 130,
+            "imgUrl": "/images/Smart Thermostat.jpg"
+        } ,
+        {
+            "id": 23,
+            "name": "Solar-Powered Outdoor Lights",
+            "price": 160,
+            "imgUrl": "/images/Smart Doorbell Camera.jpg"
+        } ,
+        {
+            "id": 24,
+            "name": "UV Phone Sanitizer",
+            "price": 243,
+            "imgUrl": "/images/UV Phone Sanitizer.jpg"
+        }
+        ,
+        {
+            "id": 25,
+            "name": "Wireless Charging Pad",
+            "price": 80,
+            "imgUrl": "/images/Wireless Charging Pad.jpg"
+        },
+        {
+            "id": 26,
+            "name": "Laptop",
+            "price": 60,
+            "imgUrl": "/images/laptop.jpg"
+        },
+        {
+            "id": 27,
+            "name": "Coffee Grinder",
+            "price": 160,
+            "imgUrl": "/images/Coffee Grinder.jpg"
+        }
+]
+ 
+
+  
